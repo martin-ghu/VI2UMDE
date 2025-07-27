@@ -1,3 +1,3 @@
-**Y**ou the **U**ser are in charge to **M**anage and **D**evelop your **I**ntelligent **E**nvironment
+**V**irtual **I**ntegrated and **I**ntelligent **U**ser **M**anager **D**eveloper **E**nvironment
 
-Although github might be a very intelligent environment, it certainly doesn't look KISS to me... help!
+Although GitHub might be a very intelligent environment, it certainly doesn't look KISS to me... help!
